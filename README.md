@@ -25,12 +25,12 @@
 - Data transformation for AI pipelines
 
 ### 🤖 AI / ML
-- OpenAI API (GPT-3.5, GPT-4o-mini)
+- OpenAI API
 - Prompt engineering
 - AI-driven content generation
 
 ### 🔐 SaaS & Architecture
-- Licensing systems (Gumroad API)
+- Licensing systems
 - Paywall design
 - Serverless & cloud deployment
 - Stateless API architecture
