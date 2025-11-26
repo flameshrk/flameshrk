@@ -17,6 +17,13 @@
 - CORS / Middleware
 - PDF text extraction pipelines
 
+### 🗄️ Databases & SQL
+- SQL (queries, joins, aggregations, window functions)
+- PostgreSQL
+- MySQL
+- Designing analytical queries
+- Data transformation for AI pipelines
+
 ### 🤖 AI / ML
 - OpenAI API (GPT-3.5, GPT-4o-mini)
 - Prompt engineering
@@ -37,5 +44,6 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,postgres,mysql" />
 </p>
+
