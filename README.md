@@ -1,16 +1,41 @@
-## Hi there 👋
+## 🚀 Skills & Technologies
 
-<!--
-**flameshrk/flameshrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages
+- JavaScript (ES6+)
+- HTML5, CSS3
 
-Here are some ideas to get you started:
+### 🧩 Frontend
+- Chrome Extensions (Manifest V3)
+- PDF.js
+- DOM & File APIs
+- UX/UI development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST API design
+- CORS / Middleware
+- PDF text extraction pipelines
+
+### 🤖 AI / ML
+- OpenAI API (GPT-3.5, GPT-4o-mini)
+- Prompt engineering
+- AI-driven content generation
+
+### 🔐 SaaS & Architecture
+- Licensing systems (Gumroad API)
+- Paywall design
+- Serverless & cloud deployment
+- Stateless API architecture
+
+### 🧰 Tools
+- Git & GitHub
+- Chrome Web Store deployment
+- Cloudflare
+- Render.com
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,cloudflare" />
+</p>
